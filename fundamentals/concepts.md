@@ -1,6 +1,12 @@
 # 💡 Concepts
 
-## <mark style="color:red;">Decentralized E-sport</mark>
+## <mark style="color:purple;">Scholars acquisition</mark>
+
+
+
+
+
+## <mark style="color:purple;">Decentralized E-sport</mark>
 
 Gamekube is in the middle of 3 markets :&#x20;
 
