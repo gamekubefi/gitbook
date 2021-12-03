@@ -2,7 +2,7 @@
 
 ### <mark style="color:red;">Here is how we will use the raised funds</mark>
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ### <mark style="color:red;">Liquidity pools</mark>
 

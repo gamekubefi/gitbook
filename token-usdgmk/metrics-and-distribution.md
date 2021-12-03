@@ -12,4 +12,4 @@
 
 ### <mark style="color:red;">Token distribution</mark>
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)

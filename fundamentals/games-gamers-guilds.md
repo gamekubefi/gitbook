@@ -1,6 +1,6 @@
 # 👾 Games, Gamers, Guilds
 
-## <mark style="color:orange;">How's a yNFT composed ?</mark>
+## <mark style="color:purple;">How's a yNFT composed ?</mark>
 
 ### Game
 
