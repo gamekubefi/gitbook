@@ -1,6 +1,6 @@
 # ⭐ Scoring system
 
-### <mark style="color:purple;">yNFT will have a scoring, here's how it's calculated, and constantly evaluated</mark>
+### <mark style="color:orange;">yNFT will have a scoring, here's how it's calculated, and constantly evaluated</mark>
 
 |                                                                                                                                                                                                                         |                                                                                                                                                                                                                                     |                                                                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -8,7 +8,7 @@
 | ![](../.gitbook/assets/stars5.png)                                                                                                                                                                                      | ![](../.gitbook/assets/stars3.png)                                                                                                                                                                                                  | ![](../.gitbook/assets/stars.png)                                                                                                                                |
 | <p>The guilds will have to register and do a KYC.</p><p>Once validated they will have to unlock their stars by proving they are dedicated(making payment, providing feedback, be on target of the announced APR...)</p> | <p>By analysing the earnings on each games we will be able to rank them, and assign a score.</p><p>Ex: As of now Axie Infinity is the biggest play to earn game, it will have a 5 stars score until another game takes the lead</p> | <p>Players will be scored based on how much earning they have announced. And also their performances in other games.</p><p>Pro players will have to do a KYC</p> |
 
-### <mark style="color:purple;">Final rating (average)</mark>
+### <mark style="color:orange;">Final rating (average)</mark>
 
 ![](../.gitbook/assets/stars.png)
 

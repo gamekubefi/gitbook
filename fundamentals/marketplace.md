@@ -18,3 +18,11 @@ On each sell on the marketplace will have a split like this :&#x20;
 | <mark style="color:purple;">**95%**</mark> | <mark style="color:purple;">**2.5%**</mark> | <mark style="color:purple;">**2.5%**</mark> |
 
 The retribution for the Player / Guild will be an incentive to create yNFT on the platform
+
+
+
+Here is how it will look :&#x20;
+
+![The marketplace will have search criterias](../.gitbook/assets/MARKETPLACE.png)
+
+![](<../.gitbook/assets/DNFT INFO BUY.png>)
