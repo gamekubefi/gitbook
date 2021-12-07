@@ -4,23 +4,25 @@
 
 Here is the main mechanism that is used to create values for players and the shintogo scholarship
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/Scholar process.png>)
 
 ## <mark style="color:purple;">Scholars renting to private investor</mark>
 
 Here is the version where Shintogo onboard private investors, a more advanced process
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/Investor process.png>)
 
 In this process there's humain intervention to onboard the investor, and there's also trusts issues on how we are able to deliver and pay investors
 
 Shintogo have more than 50 investors that trusts us, a dashboard is there to follow the scholars farming, the APR is about 150%
 
-## <mark style="color:purple;">What we wan't to do with gamekube</mark>
+
+
+## <mark style="color:orange;">What we wan't to do with gamekube</mark>
 
 With Gamekube we wan't to allow smaller investor to rent scholars fully automously with the flexibility of the DeFi&#x20;
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/Gamekube process.png>)
 
 By creating the plateform any guild can sell their yNFT assets a share revenues with investors, it will be a race of APR, that will benefit all and make the PTE market rises
 

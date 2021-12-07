@@ -5,10 +5,10 @@
 ## FUNDAMENTALS
 
 * [💡 Concepts](fundamentals/concepts.md)
-* [👾 Games, Gamers, Guilds](fundamentals/games-gamers-guilds.md)
-* [📤 Marketplace](fundamentals/marketplace.md)
 * [🦄 yNFT explained](fundamentals/ynft-explained.md)
+* [👾 Games, Gamers, Guilds](fundamentals/games-gamers-guilds.md)
 * [⭐ Scoring system](fundamentals/scoring-system.md)
+* [📤 Marketplace](fundamentals/marketplace.md)
 
 ## TOKEN $GMK
 

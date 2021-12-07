@@ -1,6 +1,6 @@
 # 📠 Metrics & Distribution
 
-### <mark style="color:red;">Token METRICS</mark>
+### <mark style="color:orange;">Token METRICS</mark>
 
 |                                |             |
 | ------------------------------ | ----------- |
@@ -10,6 +10,6 @@
 | Circulating after token sale : | 4 700 000   |
 | Vesting :                      | 24 Months   |
 
-### <mark style="color:red;">Token distribution</mark>
+### <mark style="color:orange;">Token distribution</mark>
 
 ![](<../.gitbook/assets/image (5) (1).png>)
