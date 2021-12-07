@@ -1,5 +1,7 @@
 # Table of contents
 
+## GAMEKUBE
+
 * [🚀 Introduction](README.md)
 
 ## FUNDAMENTALS

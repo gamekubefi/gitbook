@@ -1,12 +1,12 @@
 # 💡 Concepts
 
-## <mark style="color:purple;">Scholars acquisition</mark>
+## <mark style="color:purple;">Scholars acquisition (exisiting)</mark>
 
 Here is the main mechanism that is used to create values for players and the shintogo scholarship
 
 ![](<../.gitbook/assets/Scholar process.png>)
 
-## <mark style="color:purple;">Scholars renting to private investor</mark>
+## <mark style="color:purple;">Scholars renting to private investor (exisiting)</mark>
 
 Here is the version where Shintogo onboard private investors, a more advanced process
 
