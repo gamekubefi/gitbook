@@ -26,7 +26,7 @@ With Gamekube we wan't to allow smaller investor to rent scholars fully automous
 
 By creating the plateform any guild can sell their yNFT assets a share revenues with investors, it will be a race of APR, that will benefit all and make the PTE market rises
 
-Gamekube is in the middle of 3 markets :&#x20;
+### <mark style="color:orange;">Gamekube is in the middle of 3 markets :</mark>&#x20;
 
 |                                                    |                                                        |                                                     |
 | -------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------- |

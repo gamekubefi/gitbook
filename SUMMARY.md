@@ -7,8 +7,8 @@
 ## FUNDAMENTALS
 
 * [💡 Concepts](fundamentals/concepts.md)
-* [🦄 yNFT explained](fundamentals/ynft-explained.md)
 * [👾 Games, Gamers, Guilds](fundamentals/games-gamers-guilds.md)
+* [🦄 yNFT explained](fundamentals/ynft-explained.md)
 * [⭐ Scoring system](fundamentals/scoring-system.md)
 * [📤 Marketplace](fundamentals/marketplace.md)
 
