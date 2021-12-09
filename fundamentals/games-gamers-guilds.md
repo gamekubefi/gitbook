@@ -17,7 +17,7 @@ Ex: in Axie infinity a scholarship (guild) can lend you "Axies" NFT's for a shar
 
 ### <mark style="color:orange;">Gamer</mark>
 
-The gamers are pro players with a track records in one or different games, wether he come from traditional game world or PTE. (play to earn)
+The gamers are pro players with a track records in one or different games, wether he come from traditional game world or P2E. (play to earn)
 
 ### <mark style="color:orange;">Guild</mark>
 

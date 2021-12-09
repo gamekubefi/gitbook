@@ -1,12 +1,12 @@
 # 💡 Concepts
 
-## <mark style="color:purple;">Scholars acquisition (exisiting)</mark>
+## <mark style="color:orange;">Scholars acquisition (exisiting)</mark>
 
 Here is the main mechanism that is used to create values for players and the shintogo scholarship
 
 ![](<../.gitbook/assets/Scholar process.png>)
 
-## <mark style="color:purple;">Scholars renting to private investor (exisiting)</mark>
+## <mark style="color:orange;">Scholars renting to private investor (exisiting)</mark>
 
 Here is the version where Shintogo onboard private investors, a more advanced process
 
@@ -24,13 +24,13 @@ With Gamekube we wan't to allow smaller investor to rent scholars fully automous
 
 ![](<../.gitbook/assets/Gamekube process.png>)
 
-By creating the plateform any guild can sell their yNFT assets a share revenues with investors, it will be a race of APR, that will benefit all and make the PTE market rises
+By creating the plateform any guild can sell their yNFT assets a share revenues with investors, it will be a race of APR, that will benefit all and make the P2E market rises
 
 ### <mark style="color:orange;">Gamekube is in the middle of 3 markets :</mark>&#x20;
 
 |                                                    |                                                        |                                                     |
 | -------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------- |
 | <h4><mark style="color:orange;">GAMING</mark></h4> | <h4><mark style="color:orange;">BLOCKCHAIN</mark></h4> | <h4><mark style="color:orange;">E-SPORT</mark></h4> |
-| Classic games and new Play To Earn games           | DeFi, tokens, smart contracts, NFT market              | Gamers, competitons, competitors, teams, guilds     |
+| Classic games and new Play 2 Earn games            | DeFi, tokens, smart contracts, NFT market              | Gamers, competitons, competitors, teams, guilds     |
 
 Gamekube will give players a place to exists in the blockchain universe

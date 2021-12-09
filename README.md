@@ -7,7 +7,7 @@ coverY: 0
 
 ### <mark style="color:orange;">What's Gamekube ?</mark>
 
-Gamekube is a DeFi platform that allows to buy, rent and sell specific assets such as [scholars](fundamentals/games-gamers-guilds.md#scholar), it's gamers that plays Play To Earn (PTE) games and share their earnings.
+Gamekube is a DeFi platform that allows to buy, rent and sell specific assets such as [scholars](fundamentals/games-gamers-guilds.md#scholar), it's gamers that plays Play 2 Earn (P2E) games and share their earnings.
 
 It will also be a full DeFI app that make the acquisition of this kind of assets easier.
 
@@ -17,7 +17,7 @@ And lastly it will allows for pro players to create the NFT avatars as sponsorsh
 
 By creating [shintogo](https://www.shintogo.com), a [scholarship ](fundamentals/games-gamers-guilds.md#guild)in early 2021, we've realised two things :&#x20;
 
-* There are many players who want to parcipate in Play-To-Earn games but without the possibility to fill entry price.
+* There are many players who want to parcipate in Play-2-Earn games but without the possibility to fill entry price.
 * On the other hand there's many crypto investors who wan't to acquire NFTs and players but there's no easy DeFi app to do it.
 
 This is where Gamekube is born

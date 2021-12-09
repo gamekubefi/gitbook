@@ -16,7 +16,7 @@ Using every parameters the yNFT will have a rating, his value will be correlated
 
 #### <mark style="color:orange;">Guild & game</mark>
 
-Depending the on the games (PTE or classic games), the passive income will vary. PTE has more revenue, if the player is associated with a guild, it will have a better guarantee and the revenue the rating will be higher.
+Depending the on the games (P2E or classic games), the passive income will vary. P2E has more revenue, if the player is associated with a guild, it will have a better guarantee and the revenue the rating will be higher.
 
 #### <mark style="color:orange;">Production</mark>
 
